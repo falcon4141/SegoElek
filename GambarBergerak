@@ -346,26 +346,36 @@ https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="FILM",CELESTIAL MOVIES 
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 group-title="FILM",FOX FAMILY 
-https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=qVfi80MS&v=20200202
+#EXTINF:-1 group-title="FILM",FX
+https://anevia115.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="FILM",FOX ACTION 
-https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=qVfi80MS&v=20200202
+http://streamku.live:8888/live/empire/adminempire/586.ts
+#EXTINF:-1 group-title="FILM",FOX CHANNEL
+http://streamku.live:8888/live/empire/adminempire/581.ts
+#EXTINF:-1 group-title="FILM",FOX CRIME
+http://streamku.live:8888/live/empire/adminempire/582.ts
+#EXTINF:-1 group-title="FILM",FOX FAMILY 
+http://streamku.live:8888/live/empire/adminempire/584.ts
+#EXTINF:-1 group-title="FILM",FOX LIFE
+http://streamku.live:8888/live/empire/adminempire/583.ts
 #EXTINF:-1 group-title="FILM",FOX MOVIES 
-https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=qVfi80MS&v=20200202
-#EXTINF:-1 group-title="FILM",FOX 
-https://delivery.macan.live/stream/id_fox/index.m3u8?token=qVfi80MS&v=20200202
+http://streamku.live:8888/live/empire/adminempire/585.ts
 #EXTINF:-1 group-title="FILM",FOX Crime 
-https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=qVfi80MS&v=20200202
-#EXTINF:-1 group-title="FILM",FOX LIFE 
-https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=qVfi80MS&v=20200202
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 group-title="FILM",RED BY HBO
+http://streamku.live:8888/live/empire/adminempire/689.ts
 #EXTINF:-1 group-title="FILM",HBO FAMILY 
-https://delivery.macan.live/stream/hbo_family/index.m3u8?token=qVfi80MS&v=20200202
+http://streamku.live:8888/live/empire/adminempire/661.ts
 #EXTINF:-1 group-title="FILM",HBO 
-https://delivery.macan.live/stream/hbo/index.m3u8?token=qVfi80MS&v=20200202
+http://streamku.live:8888/live/empire/adminempire/576.ts
 #EXTINF:-1 group-title="FILM",HBO Hits 
-https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=qVfi80MS&v=20200202
+http://streamku.live:8888/live/empire/adminempire/578.ts
 #EXTINF:-1 group-title="FILM",HBO Signature
-https://delivery.macan.live/stream/hbo_signature/index.m3u8?token=qVfi80MS&v=20200202
+http://streamku.live:8888/live/empire/adminempire/577.ts
+#EXTINF:-1 group-title="FILM",HITS
+http://45.126.83.51/uq2663/h/h37/01.m3u8
+#EXTINF:-1 group-title="FILM",HITS HD
+http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
 #EXTINF:-1 group-title="FILM",MYCINEMA 
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 group-title="FILM",MNX HD
@@ -380,12 +390,70 @@ http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1 group-title="FILM",STAR GOLD HD
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FILM",TVN MOVIES
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
+#EXTINF:-1 group-title="FILM",TVN
+https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 group-title="FILM",QYOU HD
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1 group-title="FILM",THRILL HD
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="FILM",THRILL
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
+#EXTINF:-1 group-title="FILM",SONY ONE
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1 group-title="FILM",Hollywood Movies 1
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 group-title="FILM",Hollywood Movies 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 group-title="FILM",Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 group-title="FILM",Hollywood Movies 4
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8 
+#EXTINF:-1 group-title="FILM",Hollywood Movies 5
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="FILM",STAR MOVIES
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 group-title="FILM",MOMEDY NOW
+https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
+#EXTINF:-1 group-title="FILM",THE WORK
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1 group-title="FILM",Knowledge Kids
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+#EXTINF:-1 group-title="FILM",CINEMA THAI
+http://203.154.243.89:2037
+#EXTINF:-1 group-title="FILM",ZING
+https://anevia114.mncnow.id/live/eds/Zing/sa_hls/Zing-avc1_2499968=7-mp4a_98800_ind=2.m3u8
+#EXTINF:-1 group-title="FILM",ROTANA CINEMA
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/index.m3u8
+#EXTINF:-1 group-title="FILM",STAR MOVIES
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 group-title="FILM",STAR WORLD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+#EXTINF:-1 group-title="FILM",RAI MOVIES
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 group-title="FILM",SONY MAX 1
+http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
+#EXTINF:-1 group-title="FILM",SONY MAX 2
+http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
+#EXTINF:-1 group-title="FILM",SONY PICT
+https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
+#EXTINF:-1 group-title="FILM",MOVIE NOW HD
+https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8 
+#EXTINF:-1 group-title="FILM",QYU HD
+https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8 
+#EXTINF:-1 group-title="FILM",MNX HD
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+#EXTINF:-1 group-title="FILM",E CHANEL
+http://br4.2tv.me:80/live/Ioossj/b5umxh/96.m3u8
+#EXTINF:-1 group-title="FILM",FILM BOX
+https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FILM",FILM BOX ARTHOUSE
+https://1949337293.rsc.cdn77.org/1949337293/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FILM",MGM SCIFI
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1 group-title="FILM",MNX
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
 
 #EXTINF:-1 group-title="FILM",007 1995 GoldenEye
@@ -576,8 +644,6 @@ http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274
 http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
 #EXTINF:-1 group-title="(RANDOM)",Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
-#EXTINF:-1 group-title="NETFLIX",Netflix LIVE Movies 1
-https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 #EXTINF:-1 group-title="(RANDOM)",Netflix LIVE Movies 2
 https://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="(RANDOM)",Netflix LIVE Movies 4
@@ -610,8 +676,6 @@ https://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-
 https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="(RANDOM)",Netflix LIVE Movies 18
 https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
-#EXTINF:-1 group-title="DEWASA !!!",Clubbing TV
-https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654
 #EXTINF:-1 group-title="(RANDOM)",MIX MUSIC
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
 #EXTINF:-1 group-title="(RANDOM)",MTV
