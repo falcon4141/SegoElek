@@ -301,84 +301,72 @@ https://liveanevia.mncnow.id/live/eds/Zing/sa_hls/Zing.m3u8
 
 
 
-#EXTINF:-1 group-title="2. INDIHOME",Animal Planet
+#EXTINF:-1 group-title="INDIHOME",Animal Planet
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
-#EXTINF:-1 group-title="2. INDIHOME",Asian Food Channel
+#EXTINF:-1 group-title="INDIHOME",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
-#EXTINF:-1 group-title="2. INDIHOME",AXN
+#EXTINF:-1 group-title="INDIHOME",AXN
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
-#EXTINF:-1 group-title="2. INDIHOME",Bloomberg International
+#EXTINF:-1 group-title="INDIHOME",Bloomberg International
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
-#EXTINF:-1 group-title="2. INDIHOME",Blue Ant Extreme
+#EXTINF:-1 group-title="INDIHOME",Blue Ant Extreme
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
-#EXTINF:-1 group-title="2. INDIHOME",Cinemax
+#EXTINF:-1 group-title="INDIHOME",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
-#EXTINF:-1 group-title="2. INDIHOME",CNBC International
+#EXTINF:-1 group-title="INDIHOME",CNBC International
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
-#EXTINF:-1 group-title="2. INDIHOME",Discovery Channel
+#EXTINF:-1 group-title="INDIHOME",Discovery Channel
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
-#EXTINF:-1 group-title="2. INDIHOME",Disney Channel
+#EXTINF:-1 group-title="INDIHOME",Disney Channel
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
-#EXTINF:-1 group-title="2. INDIHOME",FOX Family Movies
+#EXTINF:-1 group-title="INDIHOME",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:-1 group-title="2. INDIHOME",Fox Movies
+#EXTINF:-1 group-title="INDIHOME",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-#EXTINF:-1 group-title="2. INDIHOME",History Channel
+#EXTINF:-1 group-title="INDIHOME",History Channel
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
-#EXTINF:-1 group-title="2. INDIHOME",NAT GEO People
+#EXTINF:-1 group-title="INDIHOME",NAT GEO People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
-#EXTINF:-1 group-title="2. INDIHOME",NAT GEO Wild
+#EXTINF:-1 group-title="INDIHOME",NAT GEO Wild
 http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
-#EXTINF:-1 group-title="2. INDIHOME",National Geographic
+#EXTINF:-1 group-title="INDIHOME",National Geographic
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
-#EXTINF:-1 group-title="2. INDIHOME",Nickelodeon Asia
+#EXTINF:-1 group-title="INDIHOME",Nickelodeon Asia
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
-#EXTINF:-1 group-title="2. INDIHOME",Setanta Sports
+#EXTINF:-1 group-title="INDIHOME",Setanta Sports
 http://203.153.218.28:9981/stream/channelid/981299476?ticket=3A4FD3607BE4AAC6DAA7E01E60F3218471B987DD&profile=pass
-#EXTINF:-1 group-title="2. INDIHOME",TLC
+#EXTINF:-1 group-title="INDIHOME",TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
-#EXTINF:-1 group-title="2. INDIHOME",MY TV
+#EXTINF:-1 group-title="INDIHOME",MY TV
 https://livetvhooq.akamaized.net:443/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597923~exp=9007200828338914~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_0/chunklist.m3u8*~hmac=15a17e5b10bc2f36b6fbe927f137fff5a759fcc501c3d6712d5976a51a9b45ea
-#EXTINF:-1 group-title="2. INDIHOME",MYTV
+#EXTINF:-1 group-title="INDIHOME",MYTV
 https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
 
- #EXTINF:-1 group-title="FILM",Animax
-https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8
-#EXTINF:-1 group-title="FILM",B4U MOVIES HD
+#EXTINF:-1 group-title="FILM",B4U MOVIES HD 
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(02)/index.m3u8
- #EXTINF:-1 group-title="FILM",Celestial Classic Movies
-https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
-#EXTINF:-1 group-title="FILM",Celestial Movies
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
-#EXTINF:-1 group-title="FILM",CELESTIAL MOVIES HD
+#EXTINF:-1 group-title="FILM",CELESTIAL MOVIES 
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 group-title="FILM",Cinema World
-https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld.m3u8
-#EXTINF:-1 group-title="FILM",Cinemax
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
-#EXTINF:-1 group-title="FILM",DIVA
-http://210.210.155.35/uq2663/h/h11/index.m3u8
-#EXTINF:-1 group-title="FILM",FOX
-https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
-#EXTINF:-1 group-title="FILM",FOX Crime
-https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
-#EXTINF:-1 group-title="FILM",FX
-https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
-#EXTINF:-1 group-title="FILM",FIRST MOVIES
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:-1 group-title="FILM",HITS
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
-#EXTINF:-1 group-title="FILM",HITS HD
-https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
-#EXTINF:-1 group-title="FILM",HITS Movies
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies.m3u8
-#EXTINF:-1 group-title="FILM",HBO Hits
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
+#EXTINF:-1 group-title="FILM",FOX FAMILY 
+https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=qVfi80MS&v=20200202
+#EXTINF:-1 group-title="FILM",FOX ACTION 
+https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=qVfi80MS&v=20200202
+#EXTINF:-1 group-title="FILM",FOX MOVIES 
+https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=qVfi80MS&v=20200202
+#EXTINF:-1 group-title="FILM",FOX 
+https://delivery.macan.live/stream/id_fox/index.m3u8?token=qVfi80MS&v=20200202
+#EXTINF:-1 group-title="FILM",FOX Crime 
+https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=qVfi80MS&v=20200202
+#EXTINF:-1 group-title="FILM",FOX LIFE 
+https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=qVfi80MS&v=20200202
+#EXTINF:-1 group-title="FILM",HBO FAMILY 
+https://delivery.macan.live/stream/hbo_family/index.m3u8?token=qVfi80MS&v=20200202
+#EXTINF:-1 group-title="FILM",HBO 
+https://delivery.macan.live/stream/hbo/index.m3u8?token=qVfi80MS&v=20200202
+#EXTINF:-1 group-title="FILM",HBO Hits 
+https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=qVfi80MS&v=20200202
 #EXTINF:-1 group-title="FILM",HBO Signature
-https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
-#EXTINF:-1 group-title="FILM",KITANESIA
-http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="FILM",MYCINEMA
+https://delivery.macan.live/stream/hbo_signature/index.m3u8?token=qVfi80MS&v=20200202
+#EXTINF:-1 group-title="FILM",MYCINEMA 
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 group-title="FILM",MNX HD
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
