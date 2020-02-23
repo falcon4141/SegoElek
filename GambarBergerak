@@ -127,7 +127,7 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 group-title=" KARTUN ANAK",SAT KIDS  
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
 #EXTINF:-1 group-title=" KARTUN ANAK",Spacetoon  
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8 
+http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8 
 #EXTINF:-1 group-title=" KARTUN ANAK",UPIN DAN IPIN TV  
 https://vod.rctiplus.id/vod/169322/1/3/854/834/video/ts/segment0.ts
 #EXTINF:-1 group-title=" KARTUN ANAK",Tom & Jerry TV  
