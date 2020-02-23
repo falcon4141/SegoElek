@@ -92,45 +92,45 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-mp4a_98800_eng=3.m3u8
 
 
-#EXTINF:-1 group-title="KARTUN",ANIMAX  FIX
+#EXTINF:-1 group-title="KARTUN",ANIMAX  
 https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 group-title="KARTUN",AniPlus FIX
+#EXTINF:-1 group-title="KARTUN",AniPlus 
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8 
-#EXTINF:-1 group-title="KARTUN",BABY TV  FIX
+#EXTINF:-1 group-title="KARTUN",BABY TV  
 https://liveanevia.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV-avc1_2499968=10-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 group-title="KARTUN",Baby First  FIX
+#EXTINF:-1 group-title="KARTUN",Baby First  
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8 
-#EXTINF:-1 group-title="KARTUN", BOOMERANG FIX
+#EXTINF:-1 group-title="KARTUN", BOOMERANG 
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
-#EXTINF:-1 group-title="KARTUN",Cartoon Network FIX
+#EXTINF:-1 group-title="KARTUN",Cartoon Network 
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
 #EXTINF:-1 group-title="KARTUN",DAVINCI
 http://213.174.8.7:11111/index.m3u8
-#EXTINF:-1 group-title="KARTUN",Disney Channel FIX
+#EXTINF:-1 group-title="KARTUN",Disney Channel 
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
 #EXTINF:-1 group-title="KARTUN",Disney JR ID
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1 group-title="KARTUN",Duck TV  FIX
+#EXTINF:-1 group-title="KARTUN",Duck TV  
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 #EXTINF:-1 group-title="KARTUN",EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 group-title="KARTUN",GONG MAX TV
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
-#EXTINF:-1 group-title="KARTUN",KIDS TV FIX
+#EXTINF:-1 group-title="KARTUN",KIDS TV 
 https://anevia115.mncnow.id:443/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_2499968=9-mp4a_98800_eng=5.m3u8 
-#EXTINF:-1 group-title="KARTUN",Nick Jr FIX
+#EXTINF:-1 group-title="KARTUN",Nick Jr 
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_2499968=8-mp4a_98800_eng=4.m3u8
-#EXTINF:-1 group-title="KARTUN",Nickelodeon FIX
+#EXTINF:-1 group-title="KARTUN",Nickelodeon 
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_2499968=8-mp4a_98800_eng=4.m3u8
-#EXTINF:-1 group-title="KARTUN",MIAO MI  FIX
+#EXTINF:-1 group-title="KARTUN",MIAO MI  
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8  
-#EXTINF:-1 group-title="KARTUN",SAT KIDS  FIX
+#EXTINF:-1 group-title="KARTUN",SAT KIDS  
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
-#EXTINF:-1 group-title="KARTUN",Spacetoon  FIX
+#EXTINF:-1 group-title="KARTUN",Spacetoon  
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8 
-#EXTINF:-1 group-title="KARTUN",UPIN DAN IPIN TV  FIX
+#EXTINF:-1 group-title="KARTUN",UPIN DAN IPIN TV  
 https://vod.rctiplus.id/vod/169322/1/3/854/834/video/ts/segment0.ts
-#EXTINF:-1 group-title="KARTUN",Tom & Jerry TV  FIX
+#EXTINF:-1 group-title="KARTUN",Tom & Jerry TV  
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv 
 #EXTINF:-1 group-title="KARTUN",LARVA TV 
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv 
