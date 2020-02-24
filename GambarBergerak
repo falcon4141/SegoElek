@@ -473,6 +473,42 @@ http://ummodigital.com:2082/movie/Gustavo2019/gustavo2019/10395.mkv
 #EXTINF:-1 group-title="FILM",007 2015 Spectre
 http://ummodigital.com:2082/movie/Gustavo2019/gustavo2019/10396.mkv
 
+#EXTINF:-1 group-title="FILM SERVER 2",CINEMA WORLD MY
+http://45.126.83.51:443/uq2663/h/h04/01.m3u8
+#EXTINF:-1 group-title="FILM SERVER 2",HBO
+http://95.170.215.118/hls/m3u8/HBO.m3u8
+#EXTINF:-1 group-title="FILM SERVER 2",FOX
+https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 group-title="FILM SERVER 2",FOX CRIME
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 group-title="FILM SERVER 2",FILM BOX
+https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FILM SERVER 2",FOX FHD
+http://tvku.live:8888/userr/200214/3634
+#EXTINF:-1 group-title="FILM SERVER 2",FOX Life FHD
+http://tvku.live:8888/userr/200214/3636
+#EXTINF:-1 group-title="FILM SERVER 2",FOX Crime HD
+http://tvku.live:8888/userr/200214/3637
+#EXTINF:-1 group-title="FILM SERVER 2",Crime FHD
+http://tvku.live:8888/userr/200214/3638
+#EXTINF:-1 group-title="FILM SERVER 2",FOX Movies FHD
+http://tvku.live:8888/userr/200214/3640
+#EXTINF:-1 group-title="FILM SERVER 2",Action FHD
+http://tvku.live:8888/userr/200214/3642
+#EXTINF:-1 group-title="FILM SERVER 2",Family Movies FHD
+http://tvku.live:8888/userr/200214/3644
+#EXTINF:-1 group-title="FILM SERVER 2",FX HD
+http://tvku.live:8888/userr/200214/3645
+#EXTINF:-1 group-title="FILM SERVER 2",FX FHD
+http://tvku.live:8888/userr/200214/3646
+#EXTINF:-1 group-title="FILM SERVER 2",HBO HD 
+http://tvku.live:8888/userr/200214/4828
+#EXTINF:-1 group-title="FILM SERVER 2",HBO Family HD
+http://tvku.live:8888/userr/200214/4830
+#EXTINF:-1 group-title="FILM SERVER 2",Red By HBO HD
+http://tvku.live:8888/userr/200214/4832
+
+
 #EXTINF:-1 group-title="(18+)",Babestation24
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
 #EXTINF:-1 group-title="(18+)",Jasmin TV
