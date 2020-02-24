@@ -1,5 +1,7 @@
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",ANTV  
 http://210.210.155.35/session/ce9a34fe-1aa3-11ea-975d-ad15b46102b5/qwr9ew/s/s102/01.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",ANTV  SD
+https://t4-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_192p/chunks.m3u8?nimblesessionid=198253791&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIwIDEwOjE3OjQ3IEFNJmhhc2hfdmFsdWU9aWVRU0J0MlNuRFovdTlPVkNtcGdYUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPS04NDk3MjI5MHwxODAuMjQ4LjMyLjUx
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",RCTI   
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",RCTI SD  
@@ -345,7 +347,7 @@ https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
 #EXTINF:-1 group-title="FILM",B4U MOVIES HD 
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="FILM",CELESTIAL MOVIES 
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+http://45.126.83.51/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 group-title="FILM",FX
 https://anevia115.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="FILM",FOX ACTION 
@@ -496,7 +498,7 @@ http://tvku.live:8888/userr/200214/3634
 #EXTINF:-1 group-title="FILM SERVER 2",FOX Life FHD
 https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
 #EXTINF:-1 group-title="FILM SERVER 2",FOX Crime HD
-http://tvku.live:8888/userr/200214/3637
+https://anevia115.mncnow.id:443/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-FoxCrime-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="FILM SERVER 2",Crime FHD
 http://tvku.live:8888/userr/200214/3638
 #EXTINF:-1 group-title="FILM SERVER 2",FOX Movies FHD
