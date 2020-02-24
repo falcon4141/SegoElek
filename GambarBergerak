@@ -473,6 +473,14 @@ http://ummodigital.com:2082/movie/Gustavo2019/gustavo2019/10395.mkv
 #EXTINF:-1 group-title="FILM",007 2015 Spectre
 http://ummodigital.com:2082/movie/Gustavo2019/gustavo2019/10396.mkv
 
+#EXTINF:-1 group-title="FILM SERVER 2",AXN
+http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1 group-title="FILM SERVER 2",AXN HD
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+#EXTINF:-1 group-title="FILM SERVER 2",CELESTIAL MOVIE
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 group-title="FILM SERVER 2",CRIME INVESTIGATION
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="FILM SERVER 2",CINEMA WORLD MY
 http://45.126.83.51:443/uq2663/h/h04/01.m3u8
 #EXTINF:-1 group-title="FILM SERVER 2",HBO
@@ -486,7 +494,7 @@ https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FILM SERVER 2",FOX FHD
 http://tvku.live:8888/userr/200214/3634
 #EXTINF:-1 group-title="FILM SERVER 2",FOX Life FHD
-http://tvku.live:8888/userr/200214/3636
+https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
 #EXTINF:-1 group-title="FILM SERVER 2",FOX Crime HD
 http://tvku.live:8888/userr/200214/3637
 #EXTINF:-1 group-title="FILM SERVER 2",Crime FHD
@@ -498,15 +506,15 @@ http://tvku.live:8888/userr/200214/3642
 #EXTINF:-1 group-title="FILM SERVER 2",Family Movies FHD
 http://tvku.live:8888/userr/200214/3644
 #EXTINF:-1 group-title="FILM SERVER 2",FX HD
-http://tvku.live:8888/userr/200214/3645
-#EXTINF:-1 group-title="FILM SERVER 2",FX FHD
-http://tvku.live:8888/userr/200214/3646
+https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 group-title="FILM SERVER 2",HITS HD
+https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 group-title="FILM SERVER 2",HBO HD 
 http://tvku.live:8888/userr/200214/4828
 #EXTINF:-1 group-title="FILM SERVER 2",HBO Family HD
 http://tvku.live:8888/userr/200214/4830
-#EXTINF:-1 group-title="FILM SERVER 2",Red By HBO HD
-http://tvku.live:8888/userr/200214/4832
+#EXTINF:-1 group-title="FILM SERVER 2",HBO 3
+https://dl.dropboxusercontent.com//s/rxxhvjqmokera80/Perbaikan%20channel.mp4?dl=0
 
 
 #EXTINF:-1 group-title="(18+)",Babestation24
