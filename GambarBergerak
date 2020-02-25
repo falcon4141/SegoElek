@@ -73,7 +73,7 @@ http://pockettv.xyz/api/zee.m3u8?c=andtvhd
 
 
 #EXTINF:-1 group-title="HEWAN LIAR",Animal Planet
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=16-mp4a_98800_eng=3.m3u8
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 #EXTINF:-1 group-title="HEWAN LIAR",Asian Food Channel
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="HEWAN LIAR",BBC Earth
@@ -108,10 +108,12 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
 #EXTINF:-1 group-title=" KARTUN ANAK",DAVINCI
 http://213.174.8.7:11111/index.m3u8
-#EXTINF:-1 group-title=" KARTUN ANAK",Disney Channel 
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
+#EXTINF:-1 group-title=" KARTUN ANAK",Disney XD
+https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD-avc1_2499968=11-DisneyXD-mp4a_98800_ind=16.m3u8
 #EXTINF:-1 group-title=" KARTUN ANAK",Disney JR ID
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 group-title=" KARTUN ANAK",Disney JR
+https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
 #EXTINF:-1 group-title=" KARTUN ANAK",Duck TV  
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 #EXTINF:-1 group-title=" KARTUN ANAK",EBS KIDS
@@ -480,11 +482,11 @@ http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 group-title="FILM SERVER 2",AXN HD
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
 #EXTINF:-1 group-title="FILM SERVER 2",CELESTIAL MOVIE
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+http://45.126.83.51/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 group-title="FILM SERVER 2",CRIME INVESTIGATION
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 group-title="FILM SERVER 2",CINEMA WORLD MY
-http://45.126.83.51:443/uq2663/h/h04/01.m3u8
+#EXTINF:-1 group-title="FILM SERVER 2",CINEMA WORLD ID
+http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="FILM SERVER 2",HBO
 http://95.170.215.118/hls/m3u8/HBO.m3u8
 #EXTINF:-1 group-title="FILM SERVER 2",FOX
