@@ -1,5 +1,5 @@
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",ANTV
-https://cdnkbl2.useetv.com/joss/15/antv/chunklist_w1986909460_b894100_sleng.m3u8?enc=_lGUnZP9bQEFRZajbl42cQ&exp=1582549235
+https://cdnkbl1.useetv.com/joss/15/antv/chunklist_w1504398086_b684100_sleng.m3u8?enc=1W_28DqQzpCJKRMF8aaYeA&exp=1582823248
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",ANTV  SD
 https://t4-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_288p/chunks.m3u8?nimblesessionid=198253791&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIwIDEwOjE3OjQ3IEFNJmhhc2hfdmFsdWU9aWVRU0J0MlNuRFovdTlPVkNtcGdYUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPS04NDk3MjI5MHwxODAuMjQ4LjMyLjUx
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",RCTI   
@@ -131,7 +131,7 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 group-title=" KARTUN ANAK",SAT KIDS  
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
 #EXTINF:-1 group-title=" KARTUN ANAK",Spacetoon  
-http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8 
+https://cdnbal1.useetv.com/joss/14/spacetoonplus/chunklist_w1752407938_b684100_sleng.m3u8?enc=sQuxXUQ71djRnhw7UGxcxg&exp=1582823682 
 #EXTINF:-1 group-title=" KARTUN ANAK",UPIN DAN IPIN TV  
 https://vod.rctiplus.id/vod/169322/1/3/854/834/video/ts/segment0.ts
 #EXTINF:-1 group-title=" KARTUN ANAK",Tom & Jerry TV  
@@ -305,12 +305,12 @@ https://liveanevia.mncnow.id/live/eds/Zing/sa_hls/Zing.m3u8
 
 
 
-#EXTINF:-1 group-title="INDIHOME",Animal Planet
-http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
-#EXTINF:-1 group-title="INDIHOME",Asian Food Channel
-http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
-#EXTINF:-1 group-title="INDIHOME",AXN
-http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+#EXTINF:-1 group-title="INDIHOME",Bioskop Indonesia
+https://cdnbal1.useetv.com/joss/14/bioskopindonesia/chunklist_w41138482_b684100_sleng.m3u8?enc=68LQAkXfszGg41E-nkKVcg&exp=1582823374
+#EXTINF:-1 group-title="INDIHOME",Dunia Lain New
+https://cdnbal1.useetv.com/joss/14/dunialain/chunklist_w137801486_b684100_sleng.m3u8?enc=D28g77LAhp6Q0DL94NWTsw&exp=1582823292
+#EXTINF:-1 group-title="INDIHOME",FLIK
+https://cdnjt25.useetv.com/joss/15/flik/chunklist_w471404046_b684100_sleng.m3u8?enc=MkBtXdFn2zYf48UCkz2NUA&exp=1582823471
 #EXTINF:-1 group-title="INDIHOME",Bloomberg International
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
 #EXTINF:-1 group-title="INDIHOME",Blue Ant Extreme
@@ -331,10 +331,10 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7A
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
 #EXTINF:-1 group-title="INDIHOME",NAT GEO People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
-#EXTINF:-1 group-title="INDIHOME",NAT GEO Wild
-http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
-#EXTINF:-1 group-title="INDIHOME",National Geographic
-http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+#EXTINF:-1 group-title="INDIHOME",NAT GEO Wild New
+https://cdnbal1.useetv.com/joss/17/natgeowild/chunklist_w1533043062_b684100_sleng.m3u8?enc=_L8QVgjOD7Mhpwj1_KcSIg&exp=1582823100
+#EXTINF:-1 group-title="INDIHOME",National Geographic New
+https://edgejt6.useetv.com/joss/17/natgeo/chunklist_w1941751046_b684100_sleng.m3u8?enc=29v2e5f6lgPLoOlGGKGOgA&exp=1582822780
 #EXTINF:-1 group-title="INDIHOME",Nickelodeon Asia
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 #EXTINF:-1 group-title="INDIHOME",Setanta Sports
