@@ -1,5 +1,7 @@
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",ANTV
-https://delivery.macan.live/stream/id_antv/index.m3u8?token=qVfi80MS&v=20200202
+https://cdnkbl1.useetv.com/joss/15/antv/chunklist_w1504398086_b684100_sleng.m3u8?enc=1W_28DqQzpCJKRMF8aaYeA&exp=1582823248
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",ANTV  SD
+https://t4-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_288p/chunks.m3u8?nimblesessionid=198253791&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIwIDEwOjE3OjQ3IEFNJmhhc2hfdmFsdWU9aWVRU0J0MlNuRFovdTlPVkNtcGdYUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPS04NDk3MjI5MHwxODAuMjQ4LjMyLjUx
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",RCTI   
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",RCTI SD  
@@ -8,6 +10,8 @@ http://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",NET TV  
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/3
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",NET TV HD  
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",RAJAWALI TV   
 http://210.210.155.35/qwr9ew/s/s12/index2.m3u8 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",MNC TV HD  
@@ -20,7 +24,9 @@ http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/6
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",GLOBAL TV HD  
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",INDOSIAR
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",INDOSIAR 
+http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",INDOSIAR SD  
 http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",TVRI   
 https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_1000000=6-mp4a_98800_eng=5.m3u8
@@ -36,12 +42,14 @@ http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_s
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",TRANS7 HD  
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",TV ONE (Offline)
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",TV ONE HD
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",JTV  
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",INEWS HD   
+https://anevia115.mncnow.id/live/eds/iNewsTV/sa_hls/iNewsTV-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",R T V  
 http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL", KOMPAS TV  
@@ -60,6 +68,8 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
  #EXTINF:-1 group-title="TV ONLINE", TV MONDE HD  
 http://210.210.155.35/qwr9ew/s/s24/index.m3u8?TV5-Monde-Asia
+#EXTINF:-1  group-title="TV ONLINE", RTV HD
+http://pockettv.xyz/api/zee.m3u8?c=andtvhd
 
 
 #EXTINF:-1 group-title="HEWAN LIAR",Animal Planet
@@ -71,7 +81,7 @@ https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-m
 #EXTINF:-1 group-title="HEWAN LIAR",Nat Geo People
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 group-title="HEWAN LIAR",Nat Geo People SD
-http://livecdnh1.TVanywhere.ae/hls/nat_geo_people/05.m3u8
+https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="HEWAN LIAR",Nat Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 group-title="HEWAN LIAR",Nat Geo
@@ -342,34 +352,42 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(02)/inde
 http://45.126.83.51/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 group-title="FILM",FX
 https://anevia115.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 group-title="FILM",FOX ACTION 
-http://streamku.live:8888/live/empire/adminempire/586.ts
-#EXTINF:-1 group-title="FILM",FOX CHANNEL
-http://streamku.live:8888/live/empire/adminempire/581.ts
+#EXTINF:-1 group-title="FILM",FOX ACTION 1
+https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=7ksfQPUe&v=20200308
+#EXTINF:-1 group-title="FILM",FOX ACTION
+https://kremes.macan.live/stream/foxactionmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDc6MTU6MzQgQU0maGFzaF92YWx1ZT0vYy83bGN4aExIcXR4ZkN0Qkd5Nkt3PT0maWQ9N2tzZlFQVWV8TW96aWxsYS81LjAgKEFuZHJvaWQgOTsgTW9iaWxlOyBydjo2OC4wKSBHZWNrby82OC4wIEZpcmVmb3gvNjguMHwxMjUuMTY2LjExOC4yM3xmb3hhY3Rpb25tb3ZpZXN8MTU4NDE3MDEzNDAwOXwmdmFsaWRtaW51dGVzPTE1&token=qMPmp2rx30JLwblYtGhEqf2ZEbqKhTQP9GuqkwvJv6aNhkrUyYdDfzu2SKZANzmqE8DGd0ZhkRFSiPBERfay1hCTtpPg1uQa2HJ5QUXcME4GaxsEjWbtaOZqFa59Kb7wDVxn8MtVrAoRbe1N190zj8ajIdXqmXBClDFOgLSu1CEnlMnEXpJh2jq48K8DGRSQwRY0vWF59Dwv223qcTD5paNm4BPDY3f
 #EXTINF:-1 group-title="FILM",FOX CRIME
 http://streamku.live:8888/live/empire/adminempire/582.ts
-#EXTINF:-1 group-title="FILM",FOX FAMILY 
-http://streamku.live:8888/live/empire/adminempire/584.ts
-#EXTINF:-1 group-title="FILM",FOX LIFE
-http://streamku.live:8888/live/empire/adminempire/583.ts
-#EXTINF:-1 group-title="FILM",FOX MOVIES 
-http://streamku.live:8888/live/empire/adminempire/585.ts
+#EXTINF:-1 group-title="FILM",FOX FAMILY  
+https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=7ksfQPUe&v=20200308
+#EXTINF:-1 group-title="FILM",FOX FAMILY 1
+https://kremes.macan.live/stream/foxfamilymovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDc6MTg6MDYgQU0maGFzaF92YWx1ZT1GY1NvZHNsV1k2dUl4RnZNNjM0SENnPT0maWQ9N2tzZlFQVWV8TW96aWxsYS81LjAgKEFuZHJvaWQgOTsgTW9iaWxlOyBydjo2OC4wKSBHZWNrby82OC4wIEZpcmVmb3gvNjguMHwxMjUuMTY2LjExOC4yM3xmb3hmYW1pbHltb3ZpZXN8MTU4NDE3MDI4NjA2NnwmdmFsaWRtaW51dGVzPTE1&token=qMPmpC0JJlMLAVT3F6JN1BujQLrzKzOuOEGyQof8EyuQfSqPlu51PXp4ZXBtrsYqjjTjMmwJlJk9EMNCGRP3dPY8d6RxLYxom3IN1b3i2O5RRLzi57LvPdiDrcNr09wK9XlanecRCMoztNA4m9sY6ljZ25d1Kfjn9JYk7MYEYwrHEmvMJrnqF05AGQgM0xOoVZBvyMDyymE0TCpR0QXUbfntfPR6DFH
+#EXTINF:-1 group-title="FILM",FOX MOVIES PREMIUM 1
+https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=7ksfQPUe&v=20200308
+#EXTINF:-1 group-title="FILM",FOX MOVIES PREMIUM
+https://kremes.macan.live/stream/foxmoviespremium/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDc6MTI6MzAgQU0maGFzaF92YWx1ZT13UGNBci8zTWs0cEhQM2ttY2lwM3pBPT0maWQ9N2tzZlFQVWV8TW96aWxsYS81LjAgKEFuZHJvaWQgOTsgTW9iaWxlOyBydjo2OC4wKSBHZWNrby82OC4wIEZpcmVmb3gvNjguMHwxMjUuMTY2LjExOC4yM3xmb3htb3ZpZXNwcmVtaXVtfDE1ODQxNjk5NTA4NzZ8JnZhbGlkbWludXRlcz0xNQ==&token=3UCYTa2SuKistnNeD6ZTVGgTGtBfoTn6Jv1SZLicRoVgUgRukd1zvNqqSaj7QnzhxNNXNzxbwZIVbcguWsooA3pieYLUXQxzJcsTTAUELMwkE6M1SJwi7urSi7N3o1JmlbwnhZVBRvtnutywCtJObh4d6K1OYMNenzqyZzERCPjrTvtkwIH59dTLpOg1TJ034JsicuaW1f6Sb5KR4HygcA07at0Jwvhtb
 #EXTINF:-1 group-title="FILM",FOX Crime 
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="FILM",RED BY HBO
-http://streamku.live:8888/live/empire/adminempire/689.ts
+https://delivery.macan.live/stream/redhbo/index.m3u8?token=7ksfQPUe&v=20200308
+#EXTINF:-1 group-title="FILM",RED BY HBO 1
+https://kremes.macan.live/stream/hbo_red/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDc6MjM6MTUgQU0maGFzaF92YWx1ZT1WZUdvTlNOVU80c3o5OUVZQ1IrU2p3PT0maWQ9N2tzZlFQVWV8TW96aWxsYS81LjAgKEFuZHJvaWQgOTsgTW9iaWxlOyBydjo2OC4wKSBHZWNrby82OC4wIEZpcmVmb3gvNjguMHwxMjUuMTY2LjExOC4yM3xoYm9fcmVkfDE1ODQxNzA1OTU5NDJ8JnZhbGlkbWludXRlcz0xNQ==&token=2Nhq2c1olmrWBmZmgX1ldUMfso4foTFut41OTQhcsN9ldQJquZroETPlb8LOzwGYQGgp3Rj00uS5hfwcQACCa6RqyTsVfgj1mEZrjRH4qpXglzETeGgxEBj4PIVqz8ITCYkSYmTegfJ324T3A3vSqanEE2TXVyEbITrdnXw2WdSPjQBCvv7PcZKWb2jKwLwCqdnUraLGkiWmoIwI4eXpL
 #EXTINF:-1 group-title="FILM",HBO FAMILY 
-http://streamku.live:8888/live/empire/adminempire/661.ts
+https://delivery.macan.live/stream/hbo_family/index.m3u8?token=7ksfQPUe&v=20200308
+#EXTINF:-1 group-title="FILM",HBO FAMILY1
+https://kremes.macan.live/stream/hbo_family/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDc6MjA6MzUgQU0maGFzaF92YWx1ZT03K3ZQNEVUOHMzUnRMR2ZZWDZPeEdRPT0maWQ9N2tzZlFQVWV8TW96aWxsYS81LjAgKEFuZHJvaWQgOTsgTW9iaWxlOyBydjo2OC4wKSBHZWNrby82OC4wIEZpcmVmb3gvNjguMHwxMjUuMTY2LjExOC4yM3xoYm9fZmFtaWx5fDE1ODQxNzA0MzUzNTV8JnZhbGlkbWludXRlcz0xNQ==&token=2hhuZpcozM1VtU2YPkbqKzqG00QkkZrP3rFCWMA9VNjcXDj2Ty6wunzPkJSqWsTdLtqe6VFe0EI1kvvDDlIsgUmsPR5h7DljV5TIWrenJ6VV7Np8KpqawZdgbTklKyfuoObPV5nmfeaBEZkq3EoyEyBU6yvf82H4poedfKwjQ1kxRNZhCE5gyM9R4qx5nBN2XTRUtpOkgXXZlgbpO52WuQn5n
 #EXTINF:-1 group-title="FILM",HBO 
-http://streamku.live:8888/live/empire/adminempire/576.ts
-#EXTINF:-1 group-title="FILM",HBO Hits 
-http://streamku.live:8888/live/empire/adminempire/578.ts
+https://delivery.macan.live/stream/hbo/index.m3u8?token=7ksfQPUe&v=20200308
+#EXTINF:-1 group-title="FILM",HBO 1
+https://kremes.macan.live/stream/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDc6MTk6MTIgQU0maGFzaF92YWx1ZT1qK2NmRHh1QTJyMlFJRWtTZXVadDRnPT0maWQ9N2tzZlFQVWV8TW96aWxsYS81LjAgKEFuZHJvaWQgOTsgTW9iaWxlOyBydjo2OC4wKSBHZWNrby82OC4wIEZpcmVmb3gvNjguMHwxMjUuMTY2LjExOC4yM3xoYm98MTU4NDE3MDM1Mjk0M3wmdmFsaWRtaW51dGVzPTE1&token=VVOux7uNug4V8wuQhqDNhi2Kh2q0LyrOBE1KAqzC4yZ7sqwWytKKqBYufhNo2yJdd1DlICADG6XEPkNOU0qPToT4Tsk4clYdReRxQ8qNndLDdnVnMNPnG4x6YBMNNoogLDRVZnA9WS4ZHQHCucgN75gKdplZSW5av9li7MhjMdAi4hXmqmJl2JN67TJ17NsQk6X3kBv54QBm1hH
 #EXTINF:-1 group-title="FILM",HBO Signature
-http://streamku.live:8888/live/empire/adminempire/577.ts
+https://delivery.macan.live/stream/hbo_signature/index.m3u8?token=7ksfQPUe&v=20200308
+#EXTINF:-1 group-title="FILM",HBO Signature 1
+https://kremes.macan.live/stream/hbo_signature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDc6MjI6MjIgQU0maGFzaF92YWx1ZT1nL0FxRE5zSlUzQmpPWkJyVzVBRzdRPT0maWQ9N2tzZlFQVWV8TW96aWxsYS81LjAgKEFuZHJvaWQgOTsgTW9iaWxlOyBydjo2OC4wKSBHZWNrby82OC4wIEZpcmVmb3gvNjguMHwxMjUuMTY2LjExOC4yM3xoYm9fc2lnbmF0dXJlfDE1ODQxNzA1NDIwMzV8JnZhbGlkbWludXRlcz0xNQ==&token=34Pu8J4BF4ltA9huaGjMVjafQisEMZhH3e3mz5YwQ6vN8BV30SpIXyAGaLmA4pRkPiGIyIGup7XC0YVEMZTlzbpdd3suLssRWJwqP7CQd98sehsS4v4FWGenkaidCZBuyZMjC0T0qcoa4E0sCMwEWOaQdfnZAp7jS3YDsRFu022z4Xc6GgkaPkaklxp8ZhQhMRhB7afqJk11JO84BdbPDDaRz8Mfb
 #EXTINF:-1 group-title="FILM",HITS
-http://45.126.83.51/uq2663/h/h37/01.m3u8
-#EXTINF:-1 group-title="FILM",HITS HD
-http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
+https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=7ksfQPUe&v=20200308
+#EXTINF:-1 group-title="FILM",HITS 1
+https://kremes.macan.live/stream/hbo_hits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDc6MjE6MjMgQU0maGFzaF92YWx1ZT1yck1WZzNTVTNqTzdBeHVBVXlCN3Z3PT0maWQ9N2tzZlFQVWV8TW96aWxsYS81LjAgKEFuZHJvaWQgOTsgTW9iaWxlOyBydjo2OC4wKSBHZWNrby82OC4wIEZpcmVmb3gvNjguMHwxMjUuMTY2LjExOC4yM3xoYm9faGl0c3wxNTg0MTcwNDgzODMxfCZ2YWxpZG1pbnV0ZXM9MTU=&token=9pt0sllOEFbnjZaAB92gDJM8AuhhacAkaSEru4JU4vxjhmB9Hjz8TxREgl5L7nuy0KE6xHl8a6MHJ7jS97540mrUcUhuH7PViEYsTbsaXrNyLzxjAM57ul9FQE8SHGU4rA29oW5q4oP801AGoRgsVnNy9RYYoxz05wzJxuNrhbAt3VgFoylZfwmfDCrJBiv623FN6Amke5WZ4GY7i7BgKK
 #EXTINF:-1 group-title="FILM",MYCINEMA 
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 group-title="FILM",MNX HD
@@ -478,21 +496,21 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigati
 #EXTINF:-1 group-title="FILM SERVER 2",CINEMA WORLD ID
 http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="FILM SERVER 2",HBO
-http://proxyts.ec.cx:8082/hls1/hbo.m3u8?wmsAuthSign=
+http://95.170.215.118/hls/m3u8/HBO.m3u8
 #EXTINF:-1 group-title="FILM SERVER 2",FOX
-http://proxyts.ec.cx:8082/hls1/foxpremium1.m3u8?wmsAuthSign=
-#EXTINF:-1 group-title="FILM SERVER 2",FOX FAMILY MOVIES
-http://proxyts.ec.cx:8082/hls1/hbofamily.m3u8?wmsAuthSign=
+https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 group-title="FILM SERVER 2",FOX CRIME
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="FILM SERVER 2",FILM BOX
 https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FILM SERVER 2",FOX LIVE HD
-http://iliketot.dyndns.TV/65f7358b813048a0898f5677e1793cf9.m3u8
+#EXTINF:-1 group-title="FILM SERVER 2",FOX FHD
+http://tvku.live:8888/userr/200214/3634
 #EXTINF:-1 group-title="FILM SERVER 2",FOX Life FHD
 https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
 #EXTINF:-1 group-title="FILM SERVER 2",FOX Crime HD
-http://iliketot.dyndns.TV/5028f7ff1d1b4d5f8189690233364737.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1 group-title="FILM SERVER 2",FOX HD
-http://iliketot.dyndns.TV/63cbfb466fe644dda11a8e109611a5cd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+https://anevia115.mncnow.id:443/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-FoxCrime-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 group-title="FILM SERVER 2",Crime FHD
+http://tvku.live:8888/userr/200214/3638
 #EXTINF:-1 group-title="FILM SERVER 2",FOX Movies FHD
 http://tvku.live:8888/userr/200214/3640
 #EXTINF:-1 group-title="FILM SERVER 2",Action FHD
@@ -507,8 +525,8 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_9880
 http://tvku.live:8888/userr/200214/4828
 #EXTINF:-1 group-title="FILM SERVER 2",HBO Family HD
 http://tvku.live:8888/userr/200214/4830
-#EXTINF:-1 group-title="FILM SERVER 2",HBO 2
-http://proxyts.ec.cx:8082/hls1/hbo2.m3u8?wmsAuthSign=
+#EXTINF:-1 group-title="FILM SERVER 2",HBO 3
+https://dl.dropboxusercontent.com//s/rxxhvjqmokera80/Perbaikan%20channel.mp4?dl=0
 
 
 #EXTINF:-1 group-title="(18+)",Babestation24
