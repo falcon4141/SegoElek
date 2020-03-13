@@ -1,5 +1,5 @@
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",ANTV
-https://cdnkbl1.useetv.com/joss/15/antv/chunklist_w1504398086_b684100_sleng.m3u8?enc=1W_28DqQzpCJKRMF8aaYeA&exp=1582823248
+https://delivery.macan.live/stream/id_antv/index.m3u8?token=jITBhpqD&v=20200308
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",ANTV  SD
 https://t4-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_288p/chunks.m3u8?nimblesessionid=198253791&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDIwIDEwOjE3OjQ3IEFNJmhhc2hfdmFsdWU9aWVRU0J0MlNuRFovdTlPVkNtcGdYUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPS04NDk3MjI5MHwxODAuMjQ4LjMyLjUx
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",RCTI   
@@ -47,7 +47,7 @@ http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",JTV  
-http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+https://delivery.macan.live/stream/id_jtv/index.m3u8?token=jITBhpqD&v=20200308
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",INEWS HD   
 https://anevia115.mncnow.id/live/eds/iNewsTV/sa_hls/iNewsTV-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",R T V  
@@ -73,19 +73,21 @@ http://pockettv.xyz/api/zee.m3u8?c=andtvhd
 
 
 #EXTINF:-1 group-title="HEWAN LIAR",Animal Planet
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
+https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=jITBhpqD&v=20200308
 #EXTINF:-1 group-title="HEWAN LIAR",Asian Food Channel
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 group-title="HEWAN LIAR",BBC Earth
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 group-title="HEWAN LIAR",DISCOVERY CHANNEL
+https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=jITBhpqD&v=20200308
+#EXTINF:-1 group-title="HEWAN LIAR",DISCOVERY ASIA
+https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=jITBhpqD&v=20200308
 #EXTINF:-1 group-title="HEWAN LIAR",Nat Geo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 group-title="HEWAN LIAR",Nat Geo People SD
-https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople-avc1_2499968=7-mp4a_98800_eng=3.m3u8
+https://delivery.macan.live/stream/id_netgeopeople/index.m3u8?token=jITBhpqD&v=20200308
 #EXTINF:-1 group-title="HEWAN LIAR",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=jITBhpqD&v=20200308
 #EXTINF:-1 group-title="HEWAN LIAR",Nat Geo
-http://livecdnh1.TVanywhere.ae/hls/nat_geo/05.m3u8
+https://delivery.macan.live/stream/id_ngc/index.m3u8?token=jITBhpqD&v=20200308
 #EXTINF:-1 group-title="HEWAN LIAR",Nat Geographic
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel-avc1_2499968=10-mp4a_98800_eng=4.m3u8
 #EXTINF:-1 group-title="HEWAN LIAR",Red Bull Tv
@@ -138,171 +140,6 @@ https://vod.rctiplus.id/vod/169322/1/3/854/834/video/ts/segment0.ts
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv 
 #EXTINF:-1 group-title=" KARTUN ANAK",LARVA TV 
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv 
-
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",ABC Australia
-https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",AFN
-https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Ainos TV
-http://stream1.ninmedia.tv/ainostv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Aljazeera English
-https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Anhui TV
-https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_hls/AnhuiTV.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Arirang
-https://liveanevia.mncnow.id/live/eds/Arirang/sa_hls/Arirang.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Auto & Gadget
-https://liveanevia.mncnow.id/live/eds/AutoGadget/sa_hls/AutoGadget.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",BBC Earth
-https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",BBC World
-https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_hls/BBCWorldNews.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Besmart
-https://liveanevia.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Bloomberg
-https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_hls/Bloomberg.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Boomerang
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Channel News Asia
-https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_hls/ChannelNewsAsia.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Channel V
-https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Clubbing TV
-https://liveanevia.mncnow.id/live/eds/MyTV/sa_hls/MyTV.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",CNBC Asia
-https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",CNN International
-https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_hls/CNNInternational.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Crime Investigation
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Dangdutz
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Discovery
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Dragon TV
-https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_hls/ShanghaiDragonTV.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Drama Channel
-https://liveanevia.mncnow.id/live/eds/DramaChannel/sa_hls/DramaChannel.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",DW TV
-https://liveanevia.mncnow.id/live/eds/DW/sa_hls/DW.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",EuroNews
-https://liveanevia.mncnow.id/live/eds/EuroNews/sa_hls/EuroNews.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",EWTN
-https://liveanevia.mncnow.id/live/eds/EWTN/sa_hls/EWTN.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Fight Sports
-https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",FMN
-https://liveanevia.mncnow.id/live/eds/FMN/sa_hls/FMN.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Foodie
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",FOX Life
-https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",FOX News
-https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",FOX Sports
-https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",FOX Sports 2
-https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",FOX Sports 3
-https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",France 24
-https://liveanevia.mncnow.id/live/eds/France24/sa_hls/France24.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Hi! Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Hidayah
-https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_hls/MNCMuslim.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",History
-https://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Home & Living
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Hunan TV
-https://liveanevia.mncnow.id/live/eds/HunanTV/sa_hls/HunanTV.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Jiangsu TV
-https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_hls/JiangsuTV.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Karaoke Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",KIX
-https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",LIFE
-https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Lifetime
-https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Love Nature
-https://dl.dropbox.com/s/a6x9ctd9fcbger2/LoveNature.m3u8?dl=0
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",MKenzonah TV
-https://streamer-1.toffeelive.com/live/sunnah_tv_576/index.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Makkah TV
-https://streamer-1.toffeelive.com/live/quran_tv_576/index.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Mastiii
-https://streamer-1.toffeelive.com/live/masti_576/index.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Music Channel
-https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",MYTV
-https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",NHK World Premium
-https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",NHK World TV
-https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_hls/NHKWorldTV.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Outdoor Channel
-https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Reformed 21
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",ROTANA clip 
-http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",RT English
-https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_hls/RTEnglish.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",SKY News
-https://liveanevia.mncnow.id/live/eds/SkyNews/sa_hls/SkyNews.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Smithsonian
-https://dl.dropbox.com/s/w1lv3vfqkf4tlvc/Smith.m3u8?dl=0
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Soccer Channel
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Sony ESPN
-https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Sony PIX
-https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Sony Six
-https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Sony Ten 1
-https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Sony Ten 2
-https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Sony Ten 3
-https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Star Chinese Movies
-https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Star Chinese Movies Legend
-https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Tawaf TV
-https://liveanevia.mncnow.id/live/eds/TawafTV/sa_hls/TawafTV.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",TRT World
-https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_hls/TRTWorld.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",TV9
-https://liveanevia.mncnow.id/live/eds/TV9/sa_hls/TV9.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",TVN
-https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",TVN Movies
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",WakuWaku Japan
-https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Warner TV
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Xingkong TV
-https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_hls/XingKongTV.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Zee Bioskop
-https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_hls/ZeeBIOSKOP.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Zee Cinema
-https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Zee TV
-https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV.m3u8
-#EXTINF:-1 group-title="CHANNEL SERVER STABIL",Zing
-https://liveanevia.mncnow.id/live/eds/Zing/sa_hls/Zing.m3u8
-
-
 
 
 #EXTINF:-1 group-title="INDIHOME",Bioskop Indonesia
