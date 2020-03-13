@@ -9,7 +9,7 @@ http://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",The Indonesia Channel   
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",NET TV  
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/3
+https://delivery.macan.live/stream/id_nettv/index.m3u8?token=jITBhpqD&v=20200308
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",NET TV HD  
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",RAJAWALI TV   
@@ -27,7 +27,7 @@ https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",INDOSIAR 
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",INDOSIAR SD  
-http://45.126.83.51/qwr9ew/s/s04/01.m3u8
+https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=jITBhpqD&v=20200308
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",TVRI   
 https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_1000000=6-mp4a_98800_eng=5.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="TV NASIONAL",SCTV 
@@ -350,122 +350,69 @@ https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="FILM",CELESTIAL MOVIES 
 http://45.126.83.51/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 group-title="FILM",FX
-https://anevia115.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 group-title="FILM",FOX ACTION 1
+#EXTINF:-1 group-title="FILM",CINEMAX
+https://delivery.macan.live/stream/cinemax/index.m3u8?token=7ksfQPUe&v=20200308
+#EXTINF:-1 group-title="FILM",CINEMAX 1
+https://kremes.macan.live/stream/hbo_cinemax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDc6Mjc6NTQgQU0maGFzaF92YWx1ZT1NaFNmZVNmODA1SmZQU1pvaEtMYVN3PT0maWQ9N2tzZlFQVWV8TW96aWxsYS81LjAgKEFuZHJvaWQgOTsgTW9iaWxlOyBydjo2OC4wKSBHZWNrby82OC4wIEZpcmVmb3gvNjguMHwxMjUuMTY2LjExOC4yM3xoYm9fY2luZW1heHwxNTg0MTcwODc0ODQ5fCZ2YWxpZG1pbnV0ZXM9MTU=&token=BATJc2lxtPujlw0oGb130xHaZxvEoCN5xXDJKG2Zvs4ICPSQlHft1Bcqctv093tpvK07hPuEHHNxf0QqJVztysi2w85qd48ppkun4iXuw1upl0PGFANep8HkmSnJ6AlR0ZIFIz3wZTmmyJOrIaLRN8gEtakgodgwjbG9u1tk8bieCvnhRHQxJgDdUWGE57WGcmoUqk1fyAlQQd8BDXN2pq1YiE
+#EXTINF:-1 group-title="FILM",CINEMAX S
+https://delivery.macan.live/stream/cinemax/index.m3u8?token=jITBhpqD&v=20200308
+#EXTINF:-1 group-title="FILM",FOX S
+https://delivery.macan.live/stream/id_fox/index.m3u8?token=jITBhpqD&v=20200308
+#EXTINF:-1 group-title="FILM",FOX S1
+https://kremes.macan.live/stream/fox/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDc6NDI6MTQgQU0maGFzaF92YWx1ZT1zMUxuWGRwa0N6eTdvWWlHdVZCWGp3PT0maWQ9aklUQmhwcUR8TW96aWxsYS81LjAgKEFuZHJvaWQgOTsgTW9iaWxlOyBydjo2OC4wKSBHZWNrby82OC4wIEZpcmVmb3gvNjguMHwxMjUuMTY2LjExOC4yM3xmb3h8MTU4NDE3MTczNDE3NXwmdmFsaWRtaW51dGVzPTE1&token=VVOuxvjP8Y37xzeF7QQbBjv9rDBOfCJSZszNdJiO7wvuUl0I5BwTcwjm7SeY6rGSaLQlpQRQ3eMKGVoa6P8tgrwmGbDOFrdTJvoLnLxf4VzIVpbu8cnyShvNA1SU0oX3esYF1Aar4fadiz8zOTh7Cxne7fMZ3VItHAXUQNnEIo7p8gM3vQwtOaBmy7NqeMylTbfPMgsZ6040d5f
+#EXTINF:-1 group-title="FILM",FOX ACTION 
 https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=7ksfQPUe&v=20200308
-#EXTINF:-1 group-title="FILM",FOX ACTION
+#EXTINF:-1 group-title="FILM",FOX ACTION 1
 https://kremes.macan.live/stream/foxactionmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDc6MTU6MzQgQU0maGFzaF92YWx1ZT0vYy83bGN4aExIcXR4ZkN0Qkd5Nkt3PT0maWQ9N2tzZlFQVWV8TW96aWxsYS81LjAgKEFuZHJvaWQgOTsgTW9iaWxlOyBydjo2OC4wKSBHZWNrby82OC4wIEZpcmVmb3gvNjguMHwxMjUuMTY2LjExOC4yM3xmb3hhY3Rpb25tb3ZpZXN8MTU4NDE3MDEzNDAwOXwmdmFsaWRtaW51dGVzPTE1&token=qMPmp2rx30JLwblYtGhEqf2ZEbqKhTQP9GuqkwvJv6aNhkrUyYdDfzu2SKZANzmqE8DGd0ZhkRFSiPBERfay1hCTtpPg1uQa2HJ5QUXcME4GaxsEjWbtaOZqFa59Kb7wDVxn8MtVrAoRbe1N190zj8ajIdXqmXBClDFOgLSu1CEnlMnEXpJh2jq48K8DGRSQwRY0vWF59Dwv223qcTD5paNm4BPDY3f
-#EXTINF:-1 group-title="FILM",FOX CRIME
-http://streamku.live:8888/live/empire/adminempire/582.ts
+#EXTINF:-1 group-title="FILM",FOX ACTION S
+https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=jITBhpqD&v=20200308
+#EXTINF:-1 group-title="FILM",FOX CRIME S
+https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=jITBhpqD&v=20200308
+#EXTINF:-1 group-title="FILM",FOX CRIME S1
+https://kremes.macan.live/stream/foxcrime/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDc6NDY6MjYgQU0maGFzaF92YWx1ZT03ZmFlNEs5V3ZkcFFjNHdhakc3cGVnPT0maWQ9aklUQmhwcUR8TW96aWxsYS81LjAgKEFuZHJvaWQgOTsgTW9iaWxlOyBydjo2OC4wKSBHZWNrby82OC4wIEZpcmVmb3gvNjguMHwxMjUuMTY2LjExOC4yM3xmb3hjcmltZXwxNTg0MTcxOTg2ODA5fCZ2YWxpZG1pbnV0ZXM9MTU=&token=9pt0t2fvDnK4d09tUVsaumDPFVRVRWMWvQ97NmSEaduoLRE84kESNz4ZNjJNszHDpDTXyEDjsZc1wSjFOQVwrSpNK99gTO5aAEERFMVtrjxU0RRryu4ANGBJoXpv0qdzXcV1iGoD0HXjIiBIK6Qm8jYm0tKHOgzus245cOqrJwVRkvBmXIIkHWloX4RHmwyGV5ePnbYMmDqG16ds2GWwIb
 #EXTINF:-1 group-title="FILM",FOX FAMILY  
 https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=7ksfQPUe&v=20200308
 #EXTINF:-1 group-title="FILM",FOX FAMILY 1
 https://kremes.macan.live/stream/foxfamilymovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDc6MTg6MDYgQU0maGFzaF92YWx1ZT1GY1NvZHNsV1k2dUl4RnZNNjM0SENnPT0maWQ9N2tzZlFQVWV8TW96aWxsYS81LjAgKEFuZHJvaWQgOTsgTW9iaWxlOyBydjo2OC4wKSBHZWNrby82OC4wIEZpcmVmb3gvNjguMHwxMjUuMTY2LjExOC4yM3xmb3hmYW1pbHltb3ZpZXN8MTU4NDE3MDI4NjA2NnwmdmFsaWRtaW51dGVzPTE1&token=qMPmpC0JJlMLAVT3F6JN1BujQLrzKzOuOEGyQof8EyuQfSqPlu51PXp4ZXBtrsYqjjTjMmwJlJk9EMNCGRP3dPY8d6RxLYxom3IN1b3i2O5RRLzi57LvPdiDrcNr09wK9XlanecRCMoztNA4m9sY6ljZ25d1Kfjn9JYk7MYEYwrHEmvMJrnqF05AGQgM0xOoVZBvyMDyymE0TCpR0QXUbfntfPR6DFH
-#EXTINF:-1 group-title="FILM",FOX MOVIES PREMIUM 1
-https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=7ksfQPUe&v=20200308
+#EXTINF:-1 group-title="FILM",FOX FAMILY S
+https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=jITBhpqD&v=20200308
 #EXTINF:-1 group-title="FILM",FOX MOVIES PREMIUM
+https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=7ksfQPUe&v=20200308
+#EXTINF:-1 group-title="FILM",FOX MOVIES PREMIUM 1
 https://kremes.macan.live/stream/foxmoviespremium/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDc6MTI6MzAgQU0maGFzaF92YWx1ZT13UGNBci8zTWs0cEhQM2ttY2lwM3pBPT0maWQ9N2tzZlFQVWV8TW96aWxsYS81LjAgKEFuZHJvaWQgOTsgTW9iaWxlOyBydjo2OC4wKSBHZWNrby82OC4wIEZpcmVmb3gvNjguMHwxMjUuMTY2LjExOC4yM3xmb3htb3ZpZXNwcmVtaXVtfDE1ODQxNjk5NTA4NzZ8JnZhbGlkbWludXRlcz0xNQ==&token=3UCYTa2SuKistnNeD6ZTVGgTGtBfoTn6Jv1SZLicRoVgUgRukd1zvNqqSaj7QnzhxNNXNzxbwZIVbcguWsooA3pieYLUXQxzJcsTTAUELMwkE6M1SJwi7urSi7N3o1JmlbwnhZVBRvtnutywCtJObh4d6K1OYMNenzqyZzERCPjrTvtkwIH59dTLpOg1TJ034JsicuaW1f6Sb5KR4HygcA07at0Jwvhtb
-#EXTINF:-1 group-title="FILM",FOX Crime 
-https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 group-title="FILM",FOX MOVIES PREMIUM S
+https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=jITBhpqD&v=20200308
 #EXTINF:-1 group-title="FILM",RED BY HBO
 https://delivery.macan.live/stream/redhbo/index.m3u8?token=7ksfQPUe&v=20200308
 #EXTINF:-1 group-title="FILM",RED BY HBO 1
 https://kremes.macan.live/stream/hbo_red/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDc6MjM6MTUgQU0maGFzaF92YWx1ZT1WZUdvTlNOVU80c3o5OUVZQ1IrU2p3PT0maWQ9N2tzZlFQVWV8TW96aWxsYS81LjAgKEFuZHJvaWQgOTsgTW9iaWxlOyBydjo2OC4wKSBHZWNrby82OC4wIEZpcmVmb3gvNjguMHwxMjUuMTY2LjExOC4yM3xoYm9fcmVkfDE1ODQxNzA1OTU5NDJ8JnZhbGlkbWludXRlcz0xNQ==&token=2Nhq2c1olmrWBmZmgX1ldUMfso4foTFut41OTQhcsN9ldQJquZroETPlb8LOzwGYQGgp3Rj00uS5hfwcQACCa6RqyTsVfgj1mEZrjRH4qpXglzETeGgxEBj4PIVqz8ITCYkSYmTegfJ324T3A3vSqanEE2TXVyEbITrdnXw2WdSPjQBCvv7PcZKWb2jKwLwCqdnUraLGkiWmoIwI4eXpL
+#EXTINF:-1 group-title="FILM",RED BY HBO S
+https://delivery.macan.live/stream/redhbo/index.m3u8?token=jITBhpqD&v=20200308
 #EXTINF:-1 group-title="FILM",HBO FAMILY 
 https://delivery.macan.live/stream/hbo_family/index.m3u8?token=7ksfQPUe&v=20200308
-#EXTINF:-1 group-title="FILM",HBO FAMILY1
+#EXTINF:-1 group-title="FILM",HBO FAMILY 1
 https://kremes.macan.live/stream/hbo_family/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDc6MjA6MzUgQU0maGFzaF92YWx1ZT03K3ZQNEVUOHMzUnRMR2ZZWDZPeEdRPT0maWQ9N2tzZlFQVWV8TW96aWxsYS81LjAgKEFuZHJvaWQgOTsgTW9iaWxlOyBydjo2OC4wKSBHZWNrby82OC4wIEZpcmVmb3gvNjguMHwxMjUuMTY2LjExOC4yM3xoYm9fZmFtaWx5fDE1ODQxNzA0MzUzNTV8JnZhbGlkbWludXRlcz0xNQ==&token=2hhuZpcozM1VtU2YPkbqKzqG00QkkZrP3rFCWMA9VNjcXDj2Ty6wunzPkJSqWsTdLtqe6VFe0EI1kvvDDlIsgUmsPR5h7DljV5TIWrenJ6VV7Np8KpqawZdgbTklKyfuoObPV5nmfeaBEZkq3EoyEyBU6yvf82H4poedfKwjQ1kxRNZhCE5gyM9R4qx5nBN2XTRUtpOkgXXZlgbpO52WuQn5n
+#EXTINF:-1 group-title="FILM",HBO FAMILY S
+https://delivery.macan.live/stream/hbo_family/index.m3u8?token=jITBhpqD&v=20200308
 #EXTINF:-1 group-title="FILM",HBO 
 https://delivery.macan.live/stream/hbo/index.m3u8?token=7ksfQPUe&v=20200308
 #EXTINF:-1 group-title="FILM",HBO 1
 https://kremes.macan.live/stream/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDc6MTk6MTIgQU0maGFzaF92YWx1ZT1qK2NmRHh1QTJyMlFJRWtTZXVadDRnPT0maWQ9N2tzZlFQVWV8TW96aWxsYS81LjAgKEFuZHJvaWQgOTsgTW9iaWxlOyBydjo2OC4wKSBHZWNrby82OC4wIEZpcmVmb3gvNjguMHwxMjUuMTY2LjExOC4yM3xoYm98MTU4NDE3MDM1Mjk0M3wmdmFsaWRtaW51dGVzPTE1&token=VVOux7uNug4V8wuQhqDNhi2Kh2q0LyrOBE1KAqzC4yZ7sqwWytKKqBYufhNo2yJdd1DlICADG6XEPkNOU0qPToT4Tsk4clYdReRxQ8qNndLDdnVnMNPnG4x6YBMNNoogLDRVZnA9WS4ZHQHCucgN75gKdplZSW5av9li7MhjMdAi4hXmqmJl2JN67TJ17NsQk6X3kBv54QBm1hH
+#EXTINF:-1 group-title="FILM",HBO S
+https://delivery.macan.live/stream/hbo/index.m3u8?token=jITBhpqD&v=20200308
 #EXTINF:-1 group-title="FILM",HBO Signature
 https://delivery.macan.live/stream/hbo_signature/index.m3u8?token=7ksfQPUe&v=20200308
 #EXTINF:-1 group-title="FILM",HBO Signature 1
 https://kremes.macan.live/stream/hbo_signature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDc6MjI6MjIgQU0maGFzaF92YWx1ZT1nL0FxRE5zSlUzQmpPWkJyVzVBRzdRPT0maWQ9N2tzZlFQVWV8TW96aWxsYS81LjAgKEFuZHJvaWQgOTsgTW9iaWxlOyBydjo2OC4wKSBHZWNrby82OC4wIEZpcmVmb3gvNjguMHwxMjUuMTY2LjExOC4yM3xoYm9fc2lnbmF0dXJlfDE1ODQxNzA1NDIwMzV8JnZhbGlkbWludXRlcz0xNQ==&token=34Pu8J4BF4ltA9huaGjMVjafQisEMZhH3e3mz5YwQ6vN8BV30SpIXyAGaLmA4pRkPiGIyIGup7XC0YVEMZTlzbpdd3suLssRWJwqP7CQd98sehsS4v4FWGenkaidCZBuyZMjC0T0qcoa4E0sCMwEWOaQdfnZAp7jS3YDsRFu022z4Xc6GgkaPkaklxp8ZhQhMRhB7afqJk11JO84BdbPDDaRz8Mfb
+#EXTINF:-1 group-title="FILM",HBO Signature S
+https://delivery.macan.live/stream/hbo_signature/index.m3u8?token=jITBhpqD&v=20200308
 #EXTINF:-1 group-title="FILM",HITS
 https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=7ksfQPUe&v=20200308
 #EXTINF:-1 group-title="FILM",HITS 1
 https://kremes.macan.live/stream/hbo_hits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDIwIDc6MjE6MjMgQU0maGFzaF92YWx1ZT1yck1WZzNTVTNqTzdBeHVBVXlCN3Z3PT0maWQ9N2tzZlFQVWV8TW96aWxsYS81LjAgKEFuZHJvaWQgOTsgTW9iaWxlOyBydjo2OC4wKSBHZWNrby82OC4wIEZpcmVmb3gvNjguMHwxMjUuMTY2LjExOC4yM3xoYm9faGl0c3wxNTg0MTcwNDgzODMxfCZ2YWxpZG1pbnV0ZXM9MTU=&token=9pt0sllOEFbnjZaAB92gDJM8AuhhacAkaSEru4JU4vxjhmB9Hjz8TxREgl5L7nuy0KE6xHl8a6MHJ7jS97540mrUcUhuH7PViEYsTbsaXrNyLzxjAM57ul9FQE8SHGU4rA29oW5q4oP801AGoRgsVnNy9RYYoxz05wzJxuNrhbAt3VgFoylZfwmfDCrJBiv623FN6Amke5WZ4GY7i7BgKK
-#EXTINF:-1 group-title="FILM",MYCINEMA 
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1 group-title="FILM",MNX HD
-https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
-#EXTINF:-1 group-title="FILM",MOVIES NOW HD
-https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
-#EXTINF:-1 group-title="FILM",Movie Channel
-https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
-#EXTINF:-1 group-title="FILM",SONY MAX 1 HD
-http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
-#EXTINF:-1 group-title="FILM",SONY MAX 2 HD
-http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
-#EXTINF:-1 group-title="FILM",STAR GOLD HD
-http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FILM",TVN MOVIES
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
-#EXTINF:-1 group-title="FILM",TVN
-https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 group-title="FILM",QYOU HD
-https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
-#EXTINF:-1 group-title="FILM",THRILL HD
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="FILM",THRILL
-https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
-#EXTINF:-1 group-title="FILM",SONY ONE
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-#EXTINF:-1 group-title="FILM",Hollywood Movies 1
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 group-title="FILM",Hollywood Movies 2
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 group-title="FILM",Hollywood Movies 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 group-title="FILM",Hollywood Movies 4
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8 
-#EXTINF:-1 group-title="FILM",Hollywood Movies 5
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="FILM",STAR MOVIES
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1 group-title="FILM",MOMEDY NOW
-https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
-#EXTINF:-1 group-title="FILM",THE WORK
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-#EXTINF:-1 group-title="FILM",Knowledge Kids
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:-1 group-title="FILM",CINEMA THAI
-http://203.154.243.89:2037
-#EXTINF:-1 group-title="FILM",ZING
-https://anevia114.mncnow.id/live/eds/Zing/sa_hls/Zing-avc1_2499968=7-mp4a_98800_ind=2.m3u8
-#EXTINF:-1 group-title="FILM",ROTANA CINEMA
-http://livecdnh3.tvanywhere.ae/hls/rotclassic/index.m3u8
-#EXTINF:-1 group-title="FILM",STAR MOVIES
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1 group-title="FILM",STAR WORLD
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-#EXTINF:-1 group-title="FILM",RAI MOVIES
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 group-title="FILM",SONY MAX 1
-http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
-#EXTINF:-1 group-title="FILM",SONY MAX 2
-http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
-#EXTINF:-1 group-title="FILM",SONY PICT
-https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
-#EXTINF:-1 group-title="FILM",MOVIE NOW HD
-https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8 
-#EXTINF:-1 group-title="FILM",QYU HD
-https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8 
-#EXTINF:-1 group-title="FILM",MNX HD
-https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
-#EXTINF:-1 group-title="FILM",E CHANEL
-http://br4.2tv.me:80/live/Ioossj/b5umxh/96.m3u8
-#EXTINF:-1 group-title="FILM",FILM BOX
-https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FILM",FILM BOX ARTHOUSE
-https://1949337293.rsc.cdn77.org/1949337293/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="FILM",MGM SCIFI
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-#EXTINF:-1 group-title="FILM",MNX
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 group-title="FILM",HITS S
+https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=jITBhpqD&v=20200308
+
 
 
 #EXTINF:-1 group-title="FILM",007 1995 GoldenEye
